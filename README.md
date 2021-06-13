@@ -1,1 +1,1 @@
-# ConnectFourGame
+A game of connect four, which can be played between two players. I built this project based on an exercise from the Python and Django Full Stack Web Developer Bootcamp course from Udemy. I used HTML5, CSS and jQuery for this project.
